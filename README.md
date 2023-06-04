@@ -1,4 +1,10 @@
 <h2 align="left">Hi 👋! My name is Tohan and I'm a Backend Developer.</h2>
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/tohanilhan/count.svg?"  />
+</div>
+
 
 ###
 
@@ -78,12 +84,6 @@
 
 <img src="https://github.com/tohanilhan/tohanilhan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tohanilhan/count.svg?"  />
-</div>
 
 
 ###
