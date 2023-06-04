@@ -1,35 +1,6 @@
 <h2 align="left">Hi 👋! My name is Tohan and I'm a Backend Developer.</h2>
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/tohanilhan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/tohanilhan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="62" height="50" alt="twitter logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/?authuser=tohanilhan@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="50" alt="gmail logo"  />
-  </a>
-  <a href="https://discordapp.com/users/4930" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="62" height="50" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCy__B9aYfsgF52iRrqOXWUQ" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="62" height="50" alt="youtube logo"  />
-  </a>
-  <a href="https://www.twitch.tv/tohantv" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="62" height="50" alt="twitch logo"  />
-  </a>
-  <a href="https://www.instagram.com/tohanilhan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="50" alt="instagram logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/atahantohan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="62" height="50" alt="hackerrank logo"  />
-  </a>
-</div>
-
-###
+### 
 
 <img align="right" height="210" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFmYTFmYzJjYmE0ZmJkZDBkOGNhNGI3OWMzMDc4Y2QxOGE2OTY2NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/ule4vhcY1xEKQ/giphy.gif"  />
 
@@ -105,6 +76,35 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tohanilhan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tohanilhan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=tohanilhan&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/tohanilhan/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/tohanilhan" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="62" height="50" alt="twitter logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/?authuser=tohanilhan@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="50" alt="gmail logo"  />
+  </a>
+  <a href="https://discordapp.com/users/4930" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="62" height="50" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCy__B9aYfsgF52iRrqOXWUQ" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="62" height="50" alt="youtube logo"  />
+  </a>
+  <a href="https://www.twitch.tv/tohantv" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="62" height="50" alt="twitch logo"  />
+  </a>
+  <a href="https://www.instagram.com/tohanilhan" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="50" alt="instagram logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/atahantohan" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="62" height="50" alt="hackerrank logo"  />
+  </a>
 </div>
 
 ###
