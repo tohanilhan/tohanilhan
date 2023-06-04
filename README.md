@@ -78,6 +78,14 @@
 
 <img src="https://github.com/tohanilhan/tohanilhan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/tohanilhan/count.svg?"  />
+</div>
+
+
 ###
 
 <div align="left">
@@ -105,12 +113,6 @@
   <a href="https://www.hackerrank.com/atahantohan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="62" height="50" alt="hackerrank logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tohanilhan/count.svg?"  />
 </div>
 
 ###
