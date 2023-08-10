@@ -1,15 +1,14 @@
 <h2 align="left">Hi 👋! My name is Tohan and I'm a Backend Developer.</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tohanilhan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tohanilhan&theme=vue-dark&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tohanilhan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tohanilhan&theme=dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tohanilhan&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tohanilhan&theme=dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="streak graph"  />
 </div>
 
 ###
 
 ###
-
 
 <h2 align="center">‼️Top500 on <a href="https://www.codewars.com/users/leaderboard/ranks?language=go">Codewars </a>in Golang ‼️ </h2>
 
