@@ -7,9 +7,7 @@
 </div>
 
 ###
-![tohanilhan's Stats](https://github-readme-stats.vercel.app/api?username=tohanilhan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![tohanilhan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tohanilhan&theme=vue-dark&hide_border=true)
-![tohanilhan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tohanilhan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 ###
 
 
